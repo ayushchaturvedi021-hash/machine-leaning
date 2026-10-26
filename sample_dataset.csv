@@ -1,0 +1,11 @@
+ID,Name,Age,Gender,Department,Salary,Experience_Years,City,Purchased
+101,Aarav,25.0,Male,IT,55000.0,2.0,Mumbai,Yes
+102,Diya,31.0,Female,HR,NaN,5.0,Delhi,No
+103,Rohan,NaN,Male,IT,72000.0,6.0,Bangalore,Yes
+104,Pooja,28.0,Female,NaN,48000.0,3.0,NaN,No
+105,Kabir,35.0,Male,Finance,85000.0,NaN,Mumbai,Yes
+106,Neha,NaN,Female,Marketing,52000.0,4.0,Pune,NaN
+107,Vikram,42.0,Male,HR,95000.0,12.0,Delhi,Yes
+108,Ananya,24.0,NaN,Finance,NaN,1.0,Bangalore,No
+109,Suresh,38.0,Male,IT,80000.0,9.0,NaN,Yes
+110,Meera,NaN,Female,NaN,60000.0,NaN,Chennai,No
